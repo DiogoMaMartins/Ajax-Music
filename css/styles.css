@@ -1,0 +1,35 @@
+    	body {
+    	    max-width: 900px;
+    	    margin: 0 auto;
+    	    background-image:url('https://priyanka25blog.files.wordpress.com/2012/11/speaker-music-blue2.jpg');
+            background-image: cover;
+    	}
+
+    	h1 {
+    	    color: teal;
+    	    font-weight: bold;
+    	    font-family: cursive;
+    	    text-align: center;
+    	}
+
+    	li {
+    	    list-style: none;
+    	}
+
+    	input {
+    	    margin-left: 40%;
+    	    position: relative;
+    	}
+
+    	label {
+    	    margin-left: 40%;
+    	    position: relative;
+    	}
+
+
+    	#container {
+    	     left: 40%;
+    	    width: auto;
+    	    position:absolute;
+
+    	}
